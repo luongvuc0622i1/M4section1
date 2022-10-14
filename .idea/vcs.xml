@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bt1-currency-converter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/th2-customer-management" vcs="Git" />
   </component>
 </project>
